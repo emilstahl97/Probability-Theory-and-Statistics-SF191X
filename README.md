@@ -1,1 +1,3 @@
-# Sannolikhetsteori-och-statistik-SF1912
+# Sannolikhetsteori-och-statistik-SF191X
+
+Repo with good material
